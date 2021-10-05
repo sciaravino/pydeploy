@@ -13,7 +13,7 @@ GET request http://localhost:5000 should return "working"
 
 2. Score the model on data in real time
 
-Url http://localhost:5000/predict
+POST request to Url http://localhost:5000/predict
 
 
 Use json body:
